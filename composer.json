@@ -1,0 +1,8 @@
+{
+    "name": "antonevers/gra-meta-brand-x",
+    "type": "metapackage",
+    "require": {
+        "antonevers/gra-meta-foundation": "~1.0",
+        "antonevers/module-local": "~1.0"
+    }
+}
